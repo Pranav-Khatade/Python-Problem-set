@@ -1,2 +1,2 @@
 # Python-String-Problems
-Python String Problems In Codechef cource
+All Python Problems So far I've Solved! is displayed here
